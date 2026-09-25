@@ -1,10 +1,10 @@
 {
   "files": [
     {
-      "path": "mods_pack.zip",
-      "url": "https://github.com",
-      "hash": "пока_пусто",
-      "size": 0,
+      "path": "mods.zip",
+      "url": "https://github.com/RejoicetikReuk/Rejoicetik/releases/download/1.0.0/mods.zip",
+      "hash": "3817ba8d8ac30db7d5d1ac78775ea455",
+      "size": 495978342,
       "extract": true
     }
   ]
