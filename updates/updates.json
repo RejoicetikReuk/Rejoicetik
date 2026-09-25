@@ -1,4 +1,15 @@
 {
+  "id": "Rejoicetik",
+  "name": "Cборка Rejoicetik 1.21.1",
+  "type": "custom",
+  "inheritsFrom": "1.21.1",
+  "mainClass": "net.minecraft.bootstrap.Main",
+  "arguments": {
+    "game": []
+  },
+  "loaders": {
+    "neoforge": "21.1.248"
+  },
   "files": [
     {
       "path": "mods.zip",
